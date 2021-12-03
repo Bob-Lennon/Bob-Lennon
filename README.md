@@ -1,6 +1,6 @@
 <h1> Bob Lennon </h1> 
 
-Web developer in love with Front-End and 90's music. What I like most about programming is being able to learn concepts that I didn't know before and implement them in real projects.
+Web developer amazed by the Back-End and 90's music. What I like most about programming is being able to learn concepts that I didn't know before and implement them in real projects.
 
 I also have a weakness for souls-like games like Dark souls & Sekiro.
 
