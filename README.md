@@ -18,7 +18,8 @@ I also have a weakness for souls-like games like Dark souls & Sekiro.
 - [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 - [Angular](https://angular.io/docs)
 - [VS Code](https://code.visualstudio.com)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea)
+- [Eclipse IDEA](https://www.jetbrains.com/idea)
+- [IntelliJ IDEA](https://www.eclipse.org/downloads)
 - A GNU/Linux operating system ([Arch Linux](https://archlinux.org))
 - And more...
 
