@@ -27,7 +27,7 @@ I also have a weakness for souls-like games like Dark souls & Sekiro.
 
 **Currently Active Repositories:**
 - [Bob-Lennon/Nuwe-Jump2Digital](https://github.com/Bob-Lennon/Nuwe-Jump2Digital)
-- [Bob-Lennon/Spring-Reactor](https://github.com/Bob-Lennon/Spring-Reactive-RestfulAPI)
+- [Bob-Lennon/Spring-Reactive-RestfulAPI](https://github.com/Bob-Lennon/Spring-Reactive-RestfulAPI)
 - [Bob-Lennon/Spring-Webflux](https://github.com/Bob-Lennon/Spring-Webflux)
 - Bob-Lennon/Equalizer (Private)
 ----------
