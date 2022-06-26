@@ -6,7 +6,7 @@ I also have a weakness for souls-like games like Dark souls & Sekiro.
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/brayan-s-14831a1b8//"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://twitter.com/acrafy"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+
 </p>
 
 ----------
